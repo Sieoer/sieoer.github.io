@@ -103,7 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Sieoer/sieoer.github.io.git
+  repo: https://github.com/Sieoer/sieoer.github.io
   branch: main
   token: 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
 
